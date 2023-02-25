@@ -1,5 +1,5 @@
 # Portfolio_Projects
-This repository contains all the data analytics portfolio projects ranging from SQL, Power BI, Excel ,Tableau
+This repository contains all my data analytics portfolio projects ranging from SQL, Power BI, Excel ,Tableau
 
 # Project 1 : Sales Analysis
 This sales data analysis project entails analyzing a company's sales data and indicating profit by product, sales, and other significant factors that might influence the company's performance.
